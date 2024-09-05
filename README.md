@@ -1,3 +1,7 @@
+  ## Building
+
+  Use the command `make` to compile a system executable -> `.exe`
+
   ## Input Format
 
   Input is read from the keyboard. The first line of input is the number of test cases `K`. Each of the `K` test cases is written in the following format:
@@ -24,7 +28,7 @@
 
   ## Sample Test Cases
 
-  Use input redirection to redirect commands written in a file to the standard input, e.g. `$ ./a.out < input1.dat`.
+  Use input redirection to redirect commands written in a file to the standard input, e.g. `$ make run < some-input.dat`.
 
   ### Input 1
   ```
